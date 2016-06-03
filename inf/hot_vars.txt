@@ -1,6 +1,6 @@
 %string
-"cat"
+"out"
 
 %int
-1
+0
 15
