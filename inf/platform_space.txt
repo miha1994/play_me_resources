@@ -1,0 +1,22 @@
+{
+	UPDATE_SEQUENCE {
+		solid
+		cat
+		static_im
+	}
+
+	RENDER_SEQUENCE {
+		static_im
+		cat
+		solid
+	}
+
+	DEF {
+		cat {
+		}
+		static_im {
+		}
+		solid {
+		}
+	}
+}
